@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+    padding-top: 800px;
+}
+
+.profile {
+    width: 175px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#Apps {
+    background: linear-gradient(#f1fac0 0%, #1a027a 100%);
+    height: 800px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    display: table;
+    width: 100%;
+}
+
+#Sprite {
+    background: linear-gradient(#f1fac0 0%, #1a027a 100%);
+    height: 100px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    display: table;
+    width: 100%;
+}
+
+#Chatbot {
+    background: linear-gradient(#f1fac0 0%, #1a027a 100%);
+    height: 800px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    display: table;
+    width: 100%;
+}
+#myCarousel {
+  background: aqua;  
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 40px;
+}
